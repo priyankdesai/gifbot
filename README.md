@@ -1,1 +1,1 @@
-A GIF bot for Raspberry PI Zero
+A GIF bot for Raspberry Pi Zero
